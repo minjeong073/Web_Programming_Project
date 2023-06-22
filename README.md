@@ -31,11 +31,9 @@
 - 입력하는 글자 색으로 쉬운 오타 확인
 - localStorage에 저장된 사용자의 타자 연습 기록과 통계 확인
 
-### 팀원
+### 🧑‍💻 팀원
 
-<b>이성훈</b> (팀장) (https://github.com/shlee9999)
-<br />
-<b>김민정</b> (https://github.com/minjeong073)
-<br />
-<b>한수정</b> (https://github.com/sooje0ng)
+- <b>이성훈</b> (팀장) (https://github.com/shlee9999)
+- <b>김민정</b> (https://github.com/minjeong073)
+- <b>한수정</b> (https://github.com/sooje0ng)
 
